@@ -1,5 +1,4 @@
 
-package ce326.hw2;
 
 
 //h klash pou kanei thn epomenh kinhsh

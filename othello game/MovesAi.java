@@ -1,4 +1,4 @@
-package ce326.hw2;
+
 
 //h klash kinisewn
 public class MovesAi {

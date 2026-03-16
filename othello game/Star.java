@@ -1,5 +1,5 @@
 
-package ce326.hw2;
+
 
 public class Star extends Pawn {
     public Star(char color) {
